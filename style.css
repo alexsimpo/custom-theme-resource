@@ -1,0 +1,15 @@
+/*
+Theme Name: portfolio child
+Author: Alex Simpson
+Version: 1.0.0
+*/
+header {
+  height: 80px;
+  width: 100%;
+  background-color: #fff;
+}
+
+body {
+  background-color: #eeeeee;
+}
+/*# sourceMappingURL=style.css.map */
